@@ -40,7 +40,6 @@ O exercício foi estruturado em duas branches distintas para atender aos requisi
 
 A estrutura de pastas utilizada no projeto é a seguinte:
 
-```
 
 Projeto\_calculadora/
 ├── CalculadoraPeck
