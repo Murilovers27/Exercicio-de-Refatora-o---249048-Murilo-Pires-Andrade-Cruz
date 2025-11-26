@@ -4,7 +4,7 @@ Este repositório contém a atividade individual de **Refatoração, Testes Unit
 
 ---
 
-## 🎯 Requisitos de Entrega
+##  Requisitos de Entrega
 
 O exercício foi estruturado em duas branches distintas para atender aos requisitos:
 
@@ -13,7 +13,7 @@ O exercício foi estruturado em duas branches distintas para atender aos requisi
 
 ---
 
-## 📂 Estrutura do Projeto
+##  Estrutura do Projeto
 
 A estrutura de pastas utilizada no projeto é a seguinte:
 Certo\! Peço desculpas pela formatação anterior. Às vezes, o Markdown pode ser sensível a cópia e cola.
@@ -27,7 +27,7 @@ Este repositório contém a atividade individual de **Refatoração, Testes Unit
 
 ---
 
-## 🎯 Requisitos de Entrega
+##  Requisitos de Entrega
 
 O exercício foi estruturado em duas branches distintas para atender aos requisitos:
 
@@ -36,7 +36,7 @@ O exercício foi estruturado em duas branches distintas para atender aos requisi
 
 ---
 
-## 📂 Estrutura do Projeto
+##  Estrutura do Projeto
 
 A estrutura de pastas utilizada no projeto é a seguinte:
 
@@ -56,7 +56,7 @@ Projeto\_calculadora/
 
 ---
 
-## ✨ Detalhes da Refatoração (Branch `Refatoracao`)
+##  Detalhes da Refatoração (Branch `Refatoracao`)
 
 A refatoração buscou melhorar a manutenibilidade e a clareza do código, baseada no princípio de Responsabilidade Única (SRP):
 
@@ -64,19 +64,19 @@ A refatoração buscou melhorar a manutenibilidade e a clareza do código, basea
 * **Tratamento de Exceções:** O controle de erro para divisão por zero e comandos inválidos utiliza o lançamento de **exceções** (`IllegalArgumentException`).
 * **Sintaxe Moderna:** O método principal `calc()` utiliza o **switch expression (`->`)** do Java para simplificar o código.
 
-### 📝 Documentação
+###  Documentação
 
 Todas as classes e métodos estão documentados com **Javadoc** (incluindo tags `@param`, `@return` e `@throws`), e a documentação em HTML foi gerada na pasta `docs/`.
 
 ---
 
-## 📸 Resultado do Teste Final
+##  Resultado do Teste Final
 
 A imagem abaixo demonstra o resultado da execução da classe `calculadoraTeste.java` após a refatoração, validando tanto as operações corretas quanto a **captura bem-sucedida das exceções**
 ---
-/home/murilo/Projeto_calculadora/CalculadoraPeck/Calculadora/public/testeRefatorado.png
 
-## 📌 Status de Entrega (25/11)
+
+##  Status de Entrega (25/11)
 
 | Item de Requisito | Status |
 | :--- | :--- |
