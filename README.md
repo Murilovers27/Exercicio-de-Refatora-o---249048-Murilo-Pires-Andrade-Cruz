@@ -15,12 +15,7 @@ O exercício foi estruturado em duas branches distintas para atender aos requisi
 
 ##  Estrutura do Projeto
 
-A estrutura de pastas utilizada no projeto é a seguinte:
-Certo\! Peço desculpas pela formatação anterior. Às vezes, o Markdown pode ser sensível a cópia e cola.
-
-Aqui está o código completo do `README.md` em **Markdown puro** e limpo, pronto para ser copiado e colado diretamente no seu arquivo `README.md`.
-
-```markdown
+```
 # 💻 Exercicio-de-Refatora-o - Calculadora Financeira
 
 Este repositório contém a atividade individual de **Refatoração, Testes Unitários e Documentação Javadoc** da disciplina de UX/UI e Testes de Software. O projeto consiste na implementação inicial de uma calculadora (branch `main`) e sua subsequente refatoração e documentação (branch `Refatoracao`).
