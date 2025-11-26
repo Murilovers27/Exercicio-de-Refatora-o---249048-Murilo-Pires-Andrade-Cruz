@@ -1,4 +1,4 @@
-# 💻 Exercicio-de-Refatora-o - Calculadora Financeira
+# 💻 Exercicio-de-Refatoração - Calculadora Financeira
 
 Este repositório contém a atividade individual de **Refatoração, Testes Unitários e Documentação Javadoc** da disciplina de UX/UI e Testes de Software. O projeto consiste na implementação inicial de uma calculadora (branch `main`) e sua subsequente refatoração e documentação (branch `Refatoracao`).
 
@@ -57,7 +57,7 @@ A refatoração buscou melhorar a manutenibilidade e a clareza do código, basea
 
 * **Isolamento de Lógica:** As operações básicas (`somar`, `subtrair`, etc.) foram isoladas em **métodos privados**.
 * **Tratamento de Exceções:** O controle de erro para divisão por zero e comandos inválidos utiliza o lançamento de **exceções** (`IllegalArgumentException`).
-* **Sintaxe Moderna:** O método principal `calc()` utiliza o **switch expression (`->`)** do Java para simplificar o código.
+* **Sintaxe:** O método principal `calc()` utiliza o **switch expression (`->`)** do Java para simplificar o código.
 
 ###  Documentação
 
