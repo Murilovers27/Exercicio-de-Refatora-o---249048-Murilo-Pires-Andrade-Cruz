@@ -76,6 +76,16 @@ A imagem abaixo demonstra o resultado da execução da classe `calculadoraTeste.
 ---
 
 
+## Versão original 
+<img src="CalculadoraPeck/Calculadora/public/testeSemRefatoracao.png" alt="Resultado do Teste Unitário Refatorado" width="500">
+
+---
+## Versão Refatorada 
+<img src="CalculadoraPeck/Calculadora/public/testeRefatorado.png" alt="Resultado do Teste Unitário Refatorado" width="500">
+
+
+
+
 ##  Status de Entrega (25/11)
 
 | Item de Requisito | Status |
