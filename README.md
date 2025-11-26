@@ -74,7 +74,7 @@ Todas as classes e métodos estão documentados com **Javadoc** (incluindo tags 
 
 A imagem abaixo demonstra o resultado da execução da classe `calculadoraTeste.java` após a refatoração, validando tanto as operações corretas quanto a **captura bem-sucedida das exceções**
 ---
-![Print do Teste Final][TesteRefatorado]
+/home/murilo/Projeto_calculadora/CalculadoraPeck/Calculadora/public/testeRefatorado.png
 
 ## 📌 Status de Entrega (25/11)
 
