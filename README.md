@@ -81,7 +81,7 @@ A imagem abaixo demonstra o resultado da execução da classe `calculadoraTeste.
 
 ---
 ## Versão Refatorada 
-<img src="CalculadoraPeck/Calculadora/public/testeRefatorado.png" alt="Resultado do Teste Unitário Refatorado" width="500">
+<img src="CalculadoraPeck/testeRefatorado.png" alt="Resultado do Teste Unitário Refatorado" width="500">
 
 
 
